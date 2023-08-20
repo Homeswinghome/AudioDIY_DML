@@ -14,6 +14,7 @@ Content
   * FDM applied to DML simulation. Part 1.
   * FDM applied to DML simulation. Part 2a.
   * FDM  applied to DML simulation. Part 2b.
+* Multi-exciter configuarations : resistance, SPL gain, power request
 
 From other contributors
 * Eucy dome instructions (from Eucyblues99 post [6570](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7123735) )

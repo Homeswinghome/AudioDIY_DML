@@ -16,6 +16,7 @@ Content
   * FDM  applied to DML simulation. Part 2b.
 * Multi-exciter configuarations : resistance, SPL gain, power 
 * DML directivity diagram (how to do it?) : version 2024-11-21 posted on [diyAudio #12705](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7850260)
+ * DML directivity, tests including DI : version 2024-11-22 posted on [diyAudio #12712](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7851470)
 
 From other contributors
 * Eucy dome instructions (from Eucyblues99 post [6570](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7123735) )

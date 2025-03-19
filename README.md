@@ -12,7 +12,7 @@ Content
 * DML material : version 2022-10-29 posted on [diyAudio/ /#6900](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7159983)
 * FDM Finite difference method
   * FDM applied to DML simulation. Part 1. (introduction to the FDM for a plate in simply supported or clamped conditions) 
-  * FDM applied to DML simulation. Part 1b (free boundary conditions)
+  * FDM applied to DML simulation. Part 1b (free boundary conditions, orthotropic material)
   * FDM applied to DML simulation. Part 2a.
   * FDM  applied to DML simulation. Part 2b.
 * Multi-exciter configuarations : resistance, SPL gain, power 

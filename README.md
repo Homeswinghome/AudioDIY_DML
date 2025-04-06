@@ -14,7 +14,7 @@ Content
   * FDM applied to DML simulation. Part 1. (introduction to the FDM for a plate in simply supported or clamped conditions, updated to free edges) 
   * FDM applied to DML simulation. Part 1b (free boundary conditions, orthotropic material)
   * FDM applied to DML simulation. Part 2a (free boundary conditions, orthotropic material)
-  * FDM  applied to DML simulation. Part 2b.
+  * FDM  applied to DML simulation. Part 2b (free boundary conditions, orthotropic material)
 * Multi-exciter configuarations : resistance, SPL gain, power 
 * DML directivity diagram (how to do it?) : version 2024-11-21 posted on [diyAudio #12705](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7850260)
  * DML directivity, tests including DI : version 2025-02-11 posted on [diyAudio #12729](https://www.diyaudio.com/community/threads/a-study-of-dmls-as-a-full-range-speaker.272576/post-7855726)
